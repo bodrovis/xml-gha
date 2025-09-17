@@ -32,5 +32,5 @@ jobs:
           additional_params: >
             {
               "original_filenames": false,
-              "bundle_structure": "g11n/data/src/main/res/values-b+%LANG_ISO%/strings.xml",
+              "bundle_structure": "g11n/data/src/main/res/values-b+%LANG_ISO%/strings.xml"
             }
