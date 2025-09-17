@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Demo App</string>
+  <string name="app_name">Demo App</string>
+  <string name="error_network">Network error. Please try again.</string>
+  <string name="error_network">Network error. Please try again.</string>
+  <string name="loading_message">Loading, please wait...</string>
+  <string name="loading_message">Loading, please wait...</string>
+  <string name="login_button">Login</string>
+  <string name="login_button">Login</string>
+  <string name="logout_button">Logout</string>
+  <string name="logout_button">Logout</string>
+  <string name="profile_title">Profile</string>
+  <string name="profile_title">Profile</string>
+  <string name="settings_title">Settings</string>
+  <string name="settings_title">Settings</string>
+  <string name="signup_button">Sign Up</string>
+  <string name="signup_button">Sign Up</string>
+  <string name="success_message">Operation successful!</string>
+  <string name="success_message">Operation successful!</string>
+  <string name="welcome_message">Welcome to the app!</string>
+  <string name="welcome_message">Welcome to the app!</string>
+</resources>
