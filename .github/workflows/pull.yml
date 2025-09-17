@@ -23,6 +23,7 @@ jobs:
           translations_path: |
             g11n/data/src/main/res/values-b+es+419
           file_format: xml
+          flat_naming: true
           additional_params: >
             {
               "original_filenames": false,
