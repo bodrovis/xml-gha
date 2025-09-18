@@ -2,7 +2,9 @@
 
 require 'fileutils'
 
-BASE_DIR = File.join(Dir.pwd, 'g11n', 'data', 'src', 'main', 'res')
+raw_translations_path = ENV["TRANSLATIONS_PATH"].to_s
+translations_path = raw.lines.first.strip # note that there might be multiple paths
+BASE_DIR = File.expand_path(translations_path, Dir.pwd)
 
 REGION_MAP = {
   'es' => '419', # Latin America & Caribbean
