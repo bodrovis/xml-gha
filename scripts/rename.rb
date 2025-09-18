@@ -3,7 +3,7 @@
 require 'fileutils'
 
 raw_translations_path = ENV["TRANSLATIONS_PATH"].to_s
-translations_path = raw.lines.first.strip # note that there might be multiple paths
+translations_path = raw_translations_path.lines.first.strip # note that there might be multiple paths
 BASE_DIR = File.expand_path(translations_path, Dir.pwd)
 
 REGION_MAP = {
