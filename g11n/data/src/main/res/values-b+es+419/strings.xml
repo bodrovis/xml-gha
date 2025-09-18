@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Aplicación de demostración</string>
+  <string name="app_name">Aplicación de demostración</string>
+  <string name="error_network">Error de red. Inténtalo de nuevo.</string>
+  <string name="error_network">Error de red. Inténtalo de nuevo.</string>
+  <string name="loading_message">Cargando, por favor espera...</string>
+  <string name="loading_message">Cargando, por favor espere...</string>
+  <string name="login_button">Iniciar sesión</string>
+  <string name="login_button">Acceso</string>
+  <string name="logout_button">Cerrar sesión</string>
+  <string name="logout_button">Cerrar sesión</string>
+  <string name="profile_title">Perfil</string>
+  <string name="profile_title">Perfil</string>
+  <string name="settings_title">Configuración</string>
+  <string name="settings_title">Ajustes</string>
+  <string name="signup_button">Regístrate</string>
+  <string name="signup_button">Inscribirse</string>
+  <string name="success_message">¡Operación exitosa!</string>
+  <string name="success_message">¡Operación exitosa!</string>
+  <string name="welcome_message">¡Bienvenido a la app!</string>
+  <string name="welcome_message">¡Bienvenido a la aplicación!</string>
+</resources>
