@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Application de démonstration</string>
+  <string name="app_name">Application de démonstration</string>
+  <string name="error_network">Erreur réseau. Veuillez réessayer.</string>
+  <string name="error_network">Erreur réseau. Veuillez réessayer.</string>
+  <string name="loading_message">Chargement en cours, veuillez patienter...</string>
+  <string name="loading_message">Chargement en cours, veuillez patienter...</string>
+  <string name="login_button">Connexion</string>
+  <string name="login_button">Se connecter</string>
+  <string name="logout_button">Déconnexion</string>
+  <string name="logout_button">Déconnexion</string>
+  <string name="profile_title">Profil</string>
+  <string name="profile_title">Profil</string>
+  <string name="settings_title">Paramètres</string>
+  <string name="settings_title">Paramètres</string>
+  <string name="signup_button">S\'inscrire</string>
+  <string name="signup_button">S\'inscrire</string>
+  <string name="success_message">Opération réussie !</string>
+  <string name="success_message">Opération réussie !</string>
+  <string name="welcome_message">Bienvenue dans l\'application !</string>
+  <string name="welcome_message">Bienvenue sur l\'application !</string>
+</resources>
